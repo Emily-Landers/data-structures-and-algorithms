@@ -119,8 +119,11 @@ const gruffaloCrumble = {
 
 
 const listFoods = (recipe) => {
-  let result = [];
- 
+  let result = recipe.ingredients.map((ingredient) => {
+    let newValue = ingredient.slice(ingredient.indexOf(' ') +1);
+    newValue = newValue.slice(newValue.indexOf(' ') +1);
+    return newValue;
+  });
   return result;
 };
 
