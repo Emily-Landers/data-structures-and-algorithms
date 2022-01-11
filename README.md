@@ -20,4 +20,11 @@ To run your tests
 
 ### 401 Data Structures, Code Challenges
 
-- Please follow the instructions specific to your 401 language, which can be found in the directory below, matching your course.
+# Reverse an Array
+<!-- Write a function called reverseArray which takes an array as an argument. Without utilizing any of the built-in methods available to your language, return an array with elements in reversed order. -->
+
+## Whiteboard Process
+![Process](array-reverse.png)
+
+## Approach & Efficiency
+<!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
