@@ -47,8 +47,12 @@ built the BinarySearch function to take in the desired inputs. we go through eac
 
 # Singly Linked List
 
-
 ## Challenge
 Create a Linked List class
 Within your Linked List class, include a head property.
 Upon instantiation, an empty Linked List should be created.
+
+# Challenge Summary
+Create a linked list with methods to append, insert before, and insert after
+
+
