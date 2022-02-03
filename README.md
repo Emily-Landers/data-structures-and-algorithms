@@ -52,5 +52,3 @@ built the BinarySearch function to take in the desired inputs. we go through eac
 Create a Linked List class
 Within your Linked List class, include a head property.
 Upon instantiation, an empty Linked List should be created.
-
-
