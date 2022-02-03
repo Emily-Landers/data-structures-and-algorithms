@@ -21,19 +21,26 @@ To run your tests
 ### 401 Data Structures, Code Challenges
 
 # Reverse an Array
-<!-- Write a function called reverseArray which takes an array as an argument. Without utilizing any of the built-in methods available to your language, return an array with elements in reversed order. -->
+
+Write a function called reverseArray which takes an array as an argument. Without utilizing any of the built-in methods available to your language, return an array with elements in reversed order.
 
 ## Whiteboard Process
-![Process](array-reverse.png)
 
-## Approach & Efficiency
-<!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
+<img src="images/array-reverse.png">
+
 
 # Insert to Middle of an Array
-<!-- Write a function called insertShiftArray which takes in an array and a value to be added. Without utilizing any of the built-in methods available to your language, return an array with the new value added at the middle index. -->
+
+Write a function called insertShiftArray which takes in an array and a value to be added. Without utilizing any of the built-in methods available to your language, return an array with the new value added at the middle index.
 
 ## Whiteboard Process
-[Process](array-insert-shift.png)
 
-## Approach & Efficiency
-<!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
+<img src="images/array-insert-shift.png">
+
+
+# Binary Search of Sorted Array
+
+built the BinarySearch function to take in the desired inputs. we go through each element in a for loop checking to see if the element currently iterated on equals the second parameter value. if it does, pass the index of that value, if it never finds a match, return -1
+
+## Whiteboard Process
+<img src="images/array-binary-search.jpeg">
